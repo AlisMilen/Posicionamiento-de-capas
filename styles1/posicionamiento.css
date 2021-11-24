@@ -1,0 +1,26 @@
+        div{
+        width: 100px;
+        height: 80px;
+        background-color: #65FEFE;
+        position: absolute;
+        left: 40px;
+        top: 40px;
+        border: solid;
+        border-color: #4D0084;
+        }
+        .d1{
+        left: 40px;
+        }
+        #d1{
+        left: 160px;
+        }
+        .d2{
+        left: 280px;
+        }
+        #d2
+        {
+        left: 400px;
+        }
+        .d3{
+        left: 520px;
+        }
